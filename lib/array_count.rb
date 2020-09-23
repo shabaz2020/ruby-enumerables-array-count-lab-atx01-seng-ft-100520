@@ -1,9 +1,7 @@
 def count_strings(array)
   # Return the total number of strings in the provided array using the count enumerable
   
-  names = ["Jason", "Jason", "Teresa", "Judah", "Michelle", "Judah", "Judah", "Allison"]
-counts = Hash.new(0)
-names.each { |name| counts[name] += 1 }
+  
 end
 
 end
